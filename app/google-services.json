@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942190252315",
+    "firebase_url": "https://doblood-1234.firebaseio.com",
+    "project_id": "doblood-1234",
+    "storage_bucket": "doblood-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942190252315:android:230f2e89d6e6e7957683be",
+        "android_client_info": {
+          "package_name": "c.www.dobloodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942190252315-p63rh6a3uquri2itdutepepm2leo898s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-mGeEGXf7YmygsRKINJn1PCZGLIrmIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942190252315-p63rh6a3uquri2itdutepepm2leo898s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

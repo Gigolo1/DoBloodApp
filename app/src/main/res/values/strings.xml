@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DoBloodApp</string>
+    <string name="spin">Choose Your Blood Group</string>
+
+    <string-array name="spinnerItems">
+        <item>O-</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string name="gspin">Choose Your Blood Group</string>
+
+    <string-array name="gspinnerItems">
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>
